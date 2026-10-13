@@ -12,14 +12,13 @@ namespace UserRoles.Controllers
             return View();
         }
 
-
         [Authorize]
         public IActionResult Privacy()
         {
             return View();
         }
 
-        [Authorize(Roles ="Admin")]
+        [Authorize(Roles = "Admin")]
         public IActionResult Admin()
         {
             return View();
@@ -30,7 +29,6 @@ namespace UserRoles.Controllers
         {
             return View();
         }
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

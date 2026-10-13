@@ -1,101 +1,149 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adria\\source\\repos\\UserRoles\\",
+  "WorkspaceRootPath": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\controllers\\ticketstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:controllers\\ticketstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\models\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:models\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\ticketstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\ticketstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\ticketstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\ticketstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\sevices\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:sevices\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\ticketstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\ticketstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\models\\priorityticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:models\\priorityticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\migrations\\20261001214151_tablaticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:migrations\\20261001214151_tablaticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\migrations\\20260909224139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\migrations\\20261008214112_tablapriorityticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:migrations\\20261008214112_tablapriorityticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\commands\\commandrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:commands\\commandrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\services\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:services\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\migrations\\20260909224139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:migrations\\20260909224139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\source\\repos\\userroles\\userroles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|c:\\users\\adria\\programabackend\\userroles\\userroles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{09F2C574-4ED1-3229-CF01-A43DC3B65FD9}|UserRoles.csproj|solutionrelative:userroles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -106,132 +154,315 @@
       "DocumentGroups": [
         {
           "DockedHeight": 356,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Home\\User.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\User.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Home\\User.cshtml",
-              "RelativeToolTip": "Views\\Home\\User.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-25T22:11:52.713Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Home\\Admin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Admin.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Home\\Admin.cshtml",
-              "RelativeToolTip": "Views\\Home\\Admin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\TicketStatus\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TicketStatus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\TicketStatus\\Index.cshtml",
+              "RelativeToolTip": "Views\\TicketStatus\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-25T22:10:51.99Z",
+              "WhenOpened": "2026-10-01T21:56:30.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "Models\\TicketStatus.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\TicketStatus.cs",
+              "RelativeToolTip": "Models\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:32:06.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T03:15:52.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAIYAAAAA4DMzMzOzv60AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T21:07:32.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-10T20:51:26.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SeedService.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Sevices\\SeedService.cs",
-              "RelativeDocumentMoniker": "Sevices\\SeedService.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Sevices\\SeedService.cs",
-              "RelativeToolTip": "Sevices\\SeedService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T22:31:04.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\ChangePassword.cshtml",
-              "RelativeToolTip": "Views\\Account\\ChangePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-25T21:46:10.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCYAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAABsPS8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-25T22:50:56.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChangePasswordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\ChangePasswordViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ChangePasswordViewModel.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\ChangePasswordViewModel.cs",
-              "RelativeToolTip": "ViewModels\\ChangePasswordViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAADAAAADgyMzMzAwvwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T20:33:52.368Z",
+              "WhenOpened": "2026-09-09T22:18:06.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Controllers\\TicketStatusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketStatusController.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Controllers\\TicketStatusController.cs",
+              "RelativeToolTip": "Controllers\\TicketStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:24:28.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\TicketStatus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TicketStatus\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\TicketStatus\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TicketStatus\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T21:48:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PriorityTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\PriorityTicket.cs",
+              "RelativeDocumentMoniker": "Models\\PriorityTicket.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\PriorityTicket.cs",
+              "RelativeToolTip": "Models\\PriorityTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T21:31:44.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\TicketStatus\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TicketStatus\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\TicketStatus\\Create.cshtml",
+              "RelativeToolTip": "Views\\TicketStatus\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T21:56:14.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20261001214151_TablaTicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Migrations\\20261001214151_TablaTicketStatus.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261001214151_TablaTicketStatus.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Migrations\\20261001214151_TablaTicketStatus.cs",
+              "RelativeToolTip": "Migrations\\20261001214151_TablaTicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T21:41:52.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T22:04:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20261008214112_TablaPriorityTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Migrations\\20261008214112_TablaPriorityTicket.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261008214112_TablaPriorityTicket.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Migrations\\20261008214112_TablaPriorityTicket.cs",
+              "RelativeToolTip": "Migrations\\20261008214112_TablaPriorityTicket.cs",
+              "ViewState": "AgIAAA0AAAAAlZmZmZkdwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T21:41:12.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T22:20:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:07:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T21:49:48.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeedService.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Services\\SeedService.cs",
+              "RelativeDocumentMoniker": "Services\\SeedService.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Services\\SeedService.cs",
+              "RelativeToolTip": "Services\\SeedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T22:31:04.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommandRunner.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Commands\\CommandRunner.cs",
+              "RelativeDocumentMoniker": "Commands\\CommandRunner.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Commands\\CommandRunner.cs",
+              "RelativeToolTip": "Commands\\CommandRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:47:02.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\User.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\User.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\User.cshtml",
+              "RelativeToolTip": "Views\\Home\\User.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T22:11:52.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T21:12:07.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T21:15:02.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T20:51:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T22:10:51.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T21:46:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T20:33:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "VerifyEmail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\VerifyEmail.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\VerifyEmail.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\VerifyEmail.cshtml",
               "RelativeToolTip": "Views\\Account\\VerifyEmail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -239,11 +470,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -251,11 +482,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "_AccountLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Shared\\_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Shared\\_AccountLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Shared\\_AccountLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -263,11 +494,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,11 +506,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\RegisterViewModel.cs",
               "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
               "ViewState": "AgIAAAQAAABwzMzMzMw3wBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,11 +518,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "VerifyEmailViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\VerifyEmailViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\VerifyEmailViewModel.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\ViewModels\\VerifyEmailViewModel.cs",
               "RelativeToolTip": "ViewModels\\VerifyEmailViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,11 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAA4AAADAMTMzMzMrwBUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -311,23 +542,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T22:20:23.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,23 +554,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "Models\\Users.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Models\\Users.cs",
-              "RelativeToolTip": "Models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T22:04:08.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "account.css",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\wwwroot\\css\\account.css",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\wwwroot\\css\\account.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\account.css",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\wwwroot\\css\\account.css",
               "RelativeToolTip": "wwwroot\\css\\account.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -359,11 +566,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -371,23 +578,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T22:18:06.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "20260909224139_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Migrations\\20260909224139_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Migrations\\20260909224139_Init.cs",
               "RelativeDocumentMoniker": "Migrations\\20260909224139_Init.cs",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\Migrations\\20260909224139_Init.cs",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\Migrations\\20260909224139_Init.cs",
               "RelativeToolTip": "Migrations\\20260909224139_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,15 +590,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "UserRoles.csproj",
-              "DocumentMoniker": "C:\\Users\\Adria\\source\\repos\\UserRoles\\UserRoles.csproj",
+              "DocumentMoniker": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\UserRoles.csproj",
               "RelativeDocumentMoniker": "UserRoles.csproj",
-              "ToolTip": "C:\\Users\\Adria\\source\\repos\\UserRoles\\UserRoles.csproj",
+              "ToolTip": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\UserRoles.csproj",
               "RelativeToolTip": "UserRoles.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-09T22:16:16.752Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GN6du2KLXhE=",
+  "dgSpecHash": "tug15m/2Wl8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adria\\source\\repos\\UserRoles\\UserRoles.csproj",
+  "projectFilePath": "C:\\Users\\Adria\\ProgramaBackend\\UserRoles\\UserRoles.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adria\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\Adria\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

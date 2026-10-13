@@ -1,10 +1,14 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using System;
+using Microsoft.AspNetCore.Identity;
 
 namespace UserRoles.Models
 {
     public class Users : IdentityUser
-    {      
-        public string FullName { get; set; } 
+    {
+        public string FullName { get; set; }
 
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+        public DateTime UpdatedAt { get; set; } = DateTime.Now;
     }
 }
