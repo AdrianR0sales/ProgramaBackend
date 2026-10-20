@@ -1,11 +1,15 @@
-﻿namespace UserRoles.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace UserRoles.Models
 {
     public class PriorityTicket
     {
+        public int Id { get; set; }
 
-        public string Id { get; set; }
-        public string Name { get; set; }
-        public DateTime CreatedAt { get; set; } = DateTime.Now;
-        public DateTime UpdatedAt { get; set; } = DateTime.Now;
+        [Required, MaxLength(100)]
+        public string Name { get; set; } = string.Empty;
+
+        public DateTime CreatedAt { get; set; }
+        public DateTime UpdatedAt { get; set; }
     }
 }
